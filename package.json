@@ -4,6 +4,6 @@
     "description": "Minimalist multiroom chat server",
     "dependencies": {
         "socket.io": "~2.1.0",
-        "mime": "~2.0.0"
+        "mime": "~1.2.7"
     }
 }
